@@ -1,0 +1,313 @@
+table_name	table_info	table_path	err_ds	err_hour	table_time	project	workflow	task	table_type	person_in_charge	flag	update_type
+basicdata.ad_show_nrt	basic层-	/basicdata/kafka/ad/show/nrt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.archive_v6_srv_recharge	basic层-v6.srv.recharge 6版充值	/basicdata/kafka/v6/srv/recharge	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_android_behavior_v2	basic层-android.ireader.user.behaviorv2 行为采集数据	/basicdata/kafka/android/ireader/user/behaviorv2	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_app_launch	basic层-v6.php.launch 6版启动日志	/basicdata/kafka/v6/php/launch	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_bookstore_php	basic层-v6.php.bookstore 6版书城php页面数据	/basicdata/kafka/v6/php/bookstore	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_client_user_read_real_rt	basic层-华为快应用实时阅读时长	/basicdata/kafka/client/user/read/real/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_client_user_staytime	basic层-用户app停留时长	/basicdata/kafka/client/user/staytime	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_dj_commercial_ad	basic层-得间商业化日志	/basicdata/kafka/dj/commercial/ad	2	2	无	megalodon	无	无	得间-p0-	郭金	1	h
+basicdata.basic_dj_read_time_rt	basic层-得间阅读实时数据	/basicdata/kafka/dj/read/time/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_download_log	basic层-6版下载日志	/basicdata/kafka/v6/srv/download	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_gift_voucher	basic层-v6.srv.giftvoucher 6版代金卷赠送日志	/basicdata/kafka/v6/srv/giftvoucher	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_invest_launch_rt	basic层-投放启动全量日志	/basicdata/kafka/invest/launch/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_invest_sync_rt	basic层-投放数据同步,目前有用户新增注册	/basicdata/kafka/invest/sync/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_invest_third_rt	basic层-投放第三方平台消耗等数据	/basicdata/kafka/invest/third/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_ios_behavior_v2	basic层-ios.ireader.user.behaviorv2 行为采集数据	/basicdata/kafka/ios/ireader/user/behaviorv2	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_midu_php_launch	basic层-秘读启动布点	/basicdata/kafka/midu/php/launch	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_midu_read_time	basic层-秘读阅读布点	/basicdata/kafka/midu/read/time	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_midu_user_show_nrt	basic层-秘读曝光非实时	/basicdata/kafka/midu/user/show/nrt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_midu_user_show_rt	basic层-秘读曝光实时	/basicdata/kafka/midu/user/show/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_order_flow_log	basic层-uc.order.flow.log 电子书销售	/basicdata/kafka/uc/order/flow/log	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_recharge_v6	basic层-v6.pay.recharge.php 6版书城php充值页面日志	/basicdata/kafka/v6/pay/recharge/php	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_record_read_bean	basic层-	/basicdata/kafka/record/read/bean	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_sensors_event	basic层-同步神策的topic:event_topic	/basicdata/kafka/sensors/event	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_sensors_event_client	basic层-神策客户端日志	/basicdata/kafka/sensors/event/client	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_sensors_event_server	basic层-神策服务端日志	/basicdata/kafka/sensors/event/server	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_sukan_php_launch	basic层-	/basicdata/kafka/sukan/php/launch	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_sukan_read_time	basic层-速看阅读日志上报	/basicdata/kafka/sukan/read/time	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_sukan_show_nrt	basic层-	/basicdata/kafka/sukan/user/show/nrt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_sukan_show_rt	basic层-	/basicdata/kafka/sukan/user/show/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_uc_active_device	basic层-uc打点的活跃设备	/basicdata/kafka/uc/active/device	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_user_click	basic层-ireader.user.click 点击日志	/basicdata/kafka/ireader/user/click	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_user_clicknrt	basic层-ireader.user.clicknrt 用户点击	/basicdata/kafka/ireader/user/clicknrt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_user_read	basic层-阅读时长布点文档-实时 topic: client.user.read.rt	/basicdata/kafka/client/user/read/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_user_shown	basic层-ireader.user.shown 浏览日志	/basicdata/kafka/ireader/user/shown	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_user_shownrt	basic层-ireader.user.shown.rt 浏览日志	/basicdata/kafka/ireader/user/shown/rt	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_userguide	basic层-v6.srv.userguide 6版用户操作指引	/basicdata/kafka/v6/srv/userguide	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_zhuidu_php_launch	basic层-追读启动	/basicdata/kafka/zhuidu/php/launch	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.basic_zhuidu_read_time	basic层-追读阅读	/basicdata/kafka/zhuidu/read/time	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.dj_mobao_comsumer	basic层-	/basicdata/kafka/dj/mobao/comsumer	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.dj_read_time	basic层-	/basicdata/kafka/dj/read/time	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.ereader_basic_bookstore_php	basic层-ereader.php.bookstore 电纸书书城日志	/basicdata/kafka/ereader/php/bookstore	2	2	无	megalodon	无	无	无	郭金	1	h
+basicdata.virtual_product	basic层-v6.srv.vp 6版虚拟产品	/basicdata/kafka/v6/srv/vp	2	2	无	megalodon	无	无	得间-p0-	郭金	1	h
+basicdata.watch_video_charpter	basic层-watch.video.charpter 激励视频送章日志协议	/basicdata/kafka/watch/video/charpter	2	2	无	megalodon	无	无	无	郭金	1	h
+datamining.bmh_ad_income_monitor_result	影响bmh核心8点基线产出	/warehouse/datamining.db/bmh_ad_income_monitor_result	2	05	03:22			p0结果表	掌阅-p0-结果表	张涵	1	d
+datatheme.theme_active_scene_d	影响p0核心8点基线表产出-大盘用户明细表(以活跃为基表)	/warehouse/datatheme.db/theme_active_scene_d	1	08	07:02	Tableau-大盘一级指标看板V2			无	郭金	1	d
+datatheme.theme_overall_d	影响p0核心8点基线表产出-大盘一级看板结果表	/warehouse/datatheme.db/theme_overall_d	1	08	07:41	Tableau-大盘一级指标看板V2			无	郭金	1	d
+dj_ads.ads_dj_commercial_ad_stat_di		/warehouse/dj_ads.db/ads_dj_commercial_ad_stat_di	3	3					得间-p0-	郭金	1	h
+dj_ads.ads_dj_commercial_ad_stat_hi		/warehouse/dj_ads.db/ads_dj_commercial_ad_stat_hi	3	3					得间-p0-	郭金	1	h
+dj_ads.ads_dj_dmp_active_user_feature_df	得间用户分群表(最近一年活跃用户)	/warehouse/dj_ads.db/ads_dj_dmp_active_user_feature_df	1	12	10.57	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_gain_goldcoin_user_di	得间用户金币获取聚合表（为得间用户分群表提供数据）	/warehouse/dj_ads.db/ads_dj_dmp_gain_goldcoin_user_di	1	03	02:09	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_launch_user_di	得间用户启动聚合表（为得间用户分群表提供数据）	/warehouse/dj_ads.db/ads_dj_dmp_launch_user_di	1	03	02:23	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_read_user_di	得间用户阅读聚合表（为得间用户分群表提供数据）	/warehouse/dj_ads.db/ads_dj_dmp_read_user_di	1	11	09:48	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_read_user_finish_list_stdi	得间完结榜（总榜）	/warehouse/dj_ads.db/ads_dj_dmp_read_user_finish_list_stdi	1	11	10:23	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_search_comment_user_di	得间用户搜索+聚合表（为得间用户分群表提供数据）	/warehouse/dj_ads.db/ads_dj_dmp_search_comment_user_di	1	05	03:25	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_show_user_di	得间用户访问页面聚合表（为得间用户分群表提供数据）	/warehouse/dj_ads.db/ads_dj_dmp_show_user_di	1	07	05:42	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_sign_user_di	得间用户签到聚合表（为得间用户分群表提供数据）	/warehouse/dj_ads.db/ads_dj_dmp_sign_user_di	1	06	04:57	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_user_feature_df	得间用户分群表	/warehouse/dj_ads.db/ads_dj_dmp_user_feature_df	1	12	10:52	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_user_feature_json_df	得间用户分群表(把用户特征放在json中)	/warehouse/dj_ads.db/ads_dj_dmp_user_feature_json_df	1	13	11:58	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.ads_dj_dmp_withdraw_user_di	得间用户提现聚合表（为得间用户分群表提供数据）	/warehouse/dj_ads.db/ads_dj_dmp_withdraw_user_di	1	09	08:23	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_bookcate_first_sum_v2_d	得间_图书分类--书籍一级分类各类指标结果表	/warehouse/dj_ads.db/t_ads_dj_bookcate_first_sum_v2_d	1	06	05:18	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_bookcate_second_sum_v2_d	得间_图书分类--书籍二级分类各类指标结果表	/warehouse/dj_ads.db/t_ads_dj_bookcate_second_sum_v2_d	1	06	05:19	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_bookcate_third_sum_v2_d	得间_图书分类--书籍三级分类各类指标结果表	/warehouse/dj_ads.db/t_ads_dj_bookcate_third_sum_v2_d	1	06	05:18	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_goldcoin_consume_d	得间-金币	/warehouse/dj_ads.db/t_ads_dj_goldcoin_consume_d	1	08	06:31	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_goldcoin_gain_v2_d	得间-金币获取详情数据月级别	/warehouse/dj_ads.db/t_ads_dj_goldcoin_gain_v2_d	1	08	07:12	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_invest_book_wide_d	得间投放书籍整合宽表	/warehouse/dj_ads.db/t_ads_dj_invest_book_wide_d	1	13	11:25	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_new_user_v2_d	影响p0核心8点基线产出-市场大盘_IOS	/warehouse/dj_ads.db/t_ads_dj_new_user_v2_d	1	05	03:28	dj_user_trends_d		p0结果表	得间-p0-	郭金	1	d
+dj_ads.t_ads_dj_recharge_analysis_d	得间-dws层用户充值分析汇总结果表	/warehouse/dj_ads.db/t_ads_dj_recharge_analysis_d	1	05	04:05	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_user_homepage_v2_d	得间_书城流量一级页面浏览点击汇总表	/warehouse/dj_ads.db/t_ads_dj_user_homepage_v2_d	1	06	05:06	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_user_subpage_v2_d	得间_书城流量二级页面浏览点击汇总表	/warehouse/dj_ads.db/t_ads_dj_user_subpage_v2_d	1	06	05:07	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_dj_vip_sum_v2_d	得间_VIP各类指标结果表	/warehouse/dj_ads.db/t_ads_dj_vip_sum_v2_d	1	09	07:41	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ads.t_ads_vip_gear_v2_d	得间_VIP档位	/warehouse/dj_ads.db/t_ads_vip_gear_v2_d	1	09	07:38	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.dwd_dj_gain_goldcoin_detail_di	得间用户金币获取明细表（来源于idata_ods.t_ods_sensors_event_all_distinct_h，为得间用户分群表提供数据）	/warehouse/dj_dwd.db/dwd_dj_gain_goldcoin_detail_di	1	03	02:10	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.dwd_dj_read_detail_di	得间用户阅读明细表（来源于zy_dm.dm_pub_read_book_user_detail_di，为得间用户分群表提供数据）	/warehouse/dj_dwd.db/dwd_dj_read_detail_di	1	10	08:46	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.dwd_dj_search_comment_detail_di	得间用户搜索+评论明细表（来源于神策,为用户分群服务）	/warehouse/dj_dwd.db/dwd_dj_search_comment_detail_di	1	04	03:14	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.t_dj_dwd_user_info_d	 得间活跃用户基本信息	/warehouse/dj_dwd.db/t_dj_dwd_user_info_d	1	09	08:12	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.t_dwd_dj_active_pool	影响p0核心8点基线表产出-得间--活跃用户全量表	/warehouse/dj_dwd.db/t_dwd_dj_active_pool	1	02	00:35	t_dwd_dj_active_pool			得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_active_pool_v2	得间--活跃用户全量表	/warehouse/dj_dwd.db/t_dwd_dj_active_pool_v2	1	08	07:20	无	无	bi结果表	得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_book_down_v2_d	影响p0核心8点基线表产出-得间--单本书下载指标详情表	/warehouse/dj_dwd.db/t_dwd_dj_book_down_v2_d	1	08	06:55	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_brief_page_v2_d	影响p0核心8点基线表产出-得间--单本图书分析--简介页指标	/warehouse/dj_dwd.db/t_dwd_dj_brief_page_v2_d	1	07	06:02	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_commercial_ad_h	得间商业化聚合	/warehouse/dj_dwd.db/t_dwd_dj_commercial_ad_h	3	3	无	无	无	无	得间-p0-	郭金	1	h
+dj_dwd.t_dwd_dj_dm_download_d	影响p0核心8点基线表产出-t_dwd_dw_download_h 按天聚合表	/warehouse/dj_dwd.db/t_dwd_dj_dm_download_d	1	07	06:16	dj_book_v2_d			无	郭金	1	d
+dj_dwd.t_dwd_dj_extract_coin_order_d	金币提现订单表dwd表	/warehouse/dj_dwd.db/t_dwd_dj_extract_coin_order_d	1	09	07:45	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.t_dwd_dj_mobao_consume_d	影响p0核心8点基线表产出-得间-墨宝消耗明细	/warehouse/dj_dwd.db/t_dwd_dj_mobao_consume_d	1	05	04:02	t_ads_dj_mobao_consume_d			得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_new_user_v2_d	影响p0核心8点基线表产出	/warehouse/dj_dwd.db/t_dwd_dj_new_user_v2_d	1	05	03:26	dj_user_trends_d				郭金	1	d
+dj_dwd.t_dwd_dj_read_user_v2_d	影响p0核心8点基线表产出	/warehouse/dj_dwd.db/t_dwd_dj_read_user_v2_d	1	05	03:58	t_dws_dj_read_user_v2_d			无	郭金	1	d
+dj_dwd.t_dwd_dj_readbean_detail_d	影响p0核心8点基线表产出-得间-阅豆(虚拟币)明细	/warehouse/dj_dwd.db/t_dwd_dj_readbean_detail_d	1	05	03:56	t_ads_dj_mobao_consume_d			得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_readtime_id_pool_d	影响p0核心8点基线表产出	/warehouse/dj_dwd.db/t_dwd_dj_readtime_id_pool_d	1	05	03:50	t_dws_dj_read_user_v2_d			无	郭金	1	d
+dj_dwd.t_dwd_dj_readtime_increment_v2_d	影响p0核心8点基线表产出	/warehouse/dj_dwd.db/t_dwd_dj_readtime_increment_v2_d	1	05	03:57	t_dws_dj_read_user_v2_d			无	郭金	1	d
+dj_dwd.t_dwd_dj_readtime_v3_d	影响p0核心8点基线表产出-得间--阅读数据	/warehouse/dj_dwd.db/t_dwd_dj_readtime_v3_d	1	05	03:51	t_dws_dj_read_user_v2_d			得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_recharge_record_d	影响p0核心8点基线表产出-得间充值明细表	/warehouse/dj_dwd.db/t_dwd_dj_recharge_record_d	1	05	04:01	t_ads_dj_recharge_analysis_d			无	郭金	1	d
+dj_dwd.t_dwd_dj_user_book_down_increment_d	影响p0核心8点基线表产出-得间--每日用户首次下载书籍每日增量表	/warehouse/dj_dwd.db/t_dwd_dj_user_book_down_increment_d	1	08	06:51	dj_book_v2_d			无	郭金	1	d
+dj_dwd.t_dwd_dj_user_boot_v2_d	影响p0核心8点基线表产出	/warehouse/dj_dwd.db/t_dwd_dj_user_boot_v2_d	1	04	03:18	dj_user_trends_d				郭金	1	d
+dj_dwd.t_dwd_dj_user_click_v2_d	得间-	/warehouse/dj_dwd.db/t_dwd_dj_user_click_v2_d	1	05	04:20	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.t_dwd_dj_user_run_h	影响p0核心8点基线表产出-得间-活跃用户小时表	/warehouse/dj_dwd.db/t_dwd_dj_user_run_h	1	17	15.38	t_dwd_dj_user_run_h			得间-p0-	郭金	1	d
+dj_dwd.t_dwd_dj_user_show_v2_h	得间-	/warehouse/dj_dwd.db/t_dwd_dj_user_show_v2_h	1	06	05:05	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.t_dwd_dj_vip_pool_d	得间-	/warehouse/dj_dwd.db/t_dwd_dj_vip_pool_d	1	08	07:35	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dwd.t_dwd_dj_watch_video_charpter_book_d	影响p0核心8点基线表产出-得间-激励视频兑换章节数据表	/warehouse/dj_dwd.db/t_dwd_dj_watch_video_charpter_book_d	1	07	06:01	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dws.dws_dj_commercial_ad_stat_di	dws层得间商业化可加指标聚合 天表	/warehouse/dj_dws.db/dws_dj_commercial_ad_stat_di	1	02	01:19			bi结果表	无	郭金	1	d
+dj_dws.dws_dj_commercial_ad_user_aggr_di	影响得间dws层商业化用户明细	/warehouse/dj_dws.db/dws_dj_commercial_ad_user_aggr_di	1	02	01:25				得间-p0-	郭金	1	d
+dj_dws.dws_dj_commercial_ad_user_stat_di	dws层得间商业化用户指标统计表	/warehouse/dj_dws.db/dws_dj_commercial_ad_user_stat_di	1	08	04:24	t_dws_dj_commercial_ad_light_d	t_dws_dj_commercial_ad_light_d	bi结果表	无	郭金	1	d
+dj_dws.dws_dj_trade_coin_order_hi	临时查数表	/warehouse/dj_dws.db/dws_dj_trade_coin_order_hi	1	02	01:12	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dws.t_dws_book_put_active_user_d	投放书籍新增用户	/warehouse/dj_dws.db/t_dws_book_put_active_user_d	1	08	07:23	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dws.t_dws_book_put_new_user_d	投放书籍新增用户	/warehouse/dj_dws.db/t_dws_book_put_new_user_d	1	08	07:04	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dws.t_dws_dj_book_brief_v2_d	影响p0核心8点基线表产出-得间--单本图书分析-简介页指标	/warehouse/dj_dws.db/t_dws_dj_book_brief_v2_d	1	07	06:04	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_book_down_v3_d	影响p0核心8点基线表产出-得间--单本图书分析-下载指标	/warehouse/dj_dws.db/t_dws_dj_book_down_v3_d	1	08	07:12	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_book_mobao_consume_d	影响p0核心8点基线表产出-单本书--墨宝消耗表	/warehouse/dj_dws.db/t_dws_dj_book_mobao_consume_d	1	07	06:08	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_book_retain_v2_d	影响p0核心8点基线表产出-得间--单本图书分析-用户留存指标	/warehouse/dj_dws.db/t_dws_dj_book_retain_v2_d	2	07	06:15	dj_book_v2_d			无	郭金	1	d
+dj_dws.t_dws_dj_book_single_hardcover_ori_v3_d	影响p0核心8点基线产出-oppo浏览器大盘	/warehouse/dj_dws.db/t_dws_dj_book_single_hardcover_ori_v3_d	1	07	05:13	dj_book_v2_d		p0结果表	得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_book_single_v3_d	影响p0核心8点基线表产出-得间-单本书图书信息	/warehouse/dj_dws.db/t_dws_dj_book_single_v3_d	1	08	07:33	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_book_toplist_d	得间-	/warehouse/dj_dws.db/t_dws_dj_book_toplist_d	1	12	11:06	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dws.t_dws_dj_book_toplist_detail_d	得间-	/warehouse/dj_dws.db/t_dws_dj_book_toplist_detail_d	1	12	11:06	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dws.t_dws_dj_brief_analysis_v2_d	得间--简介页来源分析dws层聚合表	/warehouse/dj_dws.db/t_dws_dj_brief_analysis_v2_d	1	06	04:29	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dws.t_dws_dj_commercial_ad_light_d	dws层得间商业化轻聚合宽表 天表	/warehouse/dj_dws.db/t_dws_dj_commercial_ad_light_d	1	02	01:15			bi结果表	得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_commercial_ad_light_h	dws层得间商业化轻聚合宽表	/warehouse/dj_dws.db/t_dws_dj_commercial_ad_light_h	2	h=2	无	无	无	无	得间-p0-	郭金	1	h
+dj_dws.t_dws_dj_commercial_user_behavior_di	影响得间商业化用户行为宽表	/warehouse/dj_dws.db/t_dws_dj_commercial_user_behavior_di	1	14	13:03				无	郭金	1	d
+dj_dws.t_dws_dj_commercial_user_h	得间	/warehouse/dj_dws.db/t_dws_dj_commercial_user_h	3	h=3	无	无	无	无	得间-p0-	郭金	1	h
+dj_dws.t_dws_dj_extract_coin_order_d	得间-	/warehouse/dj_dws.db/t_dws_dj_extract_coin_order_d	1	09	08:01	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_dws.t_dws_dj_new_user_retain_v2_d	影响p0核心8点基线产出-阅读	/warehouse/dj_dws.db/t_dws_dj_new_user_retain_v2_d	1	05	03:51	dj_user_trends_d		p0结果表	得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_read_user_v2_d	影响p0核心8点基线产出-市场大盘_安卓	/warehouse/dj_dws.db/t_dws_dj_read_user_v2_d	1	07	07:33	t_dws_dj_read_user_v2_d		p0结果表	得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_readtime_v3_d	影响p0核心8点基线表产出-得间-dws层阅读数据	/warehouse/dj_dws.db/t_dws_dj_readtime_v3_d	1	07	06:02	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_user_boot_v2_d	影响p0核心8点基线产出-得间活跃用户结果表-按日	/warehouse/dj_dws.db/t_dws_dj_user_boot_v2_d	1	05	03:30	dj_user_trends_d		p0结果表	得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_user_retain_active_v2_d	影响p0核心8点基线产出-得间--用户阅读概览数据	/warehouse/dj_dws.db/t_dws_dj_user_retain_active_v2_d	1	06	04:20	dj_user_trends_d		p0结果表	得间-p0-	郭金	1	d
+dj_dws.t_dws_dj_usernum_init_v2_d	影响p0核心8点基线表产出-得间新增用户结果表	/warehouse/dj_dws.db/t_dws_dj_usernum_init_v2_d	1	05	03:26	dj_user_trends_d			无	郭金	1	d
+dj_dws.t_dws_dj_watch_video_charpter_book_d	影响p0核心8点基线表产出-得间--看视频的激励数据	/warehouse/dj_dws.db/t_dws_dj_watch_video_charpter_book_d	1	07	06:02	dj_book_v2_d			得间-p0-	郭金	1	d
+dj_ods.ods_dj_trade_withdraw_order_hi	临时查数表	/warehouse/dj_ods.db/ods_dj_trade_withdraw_order_hi	1	02	00:19	dw_dj	无	无	得间-p0-	李志伟	1	d
+dj_ods.t_ods_dj_book_down_h	影响p0核心小时表产出	/warehouse/dj_ods.db/t_ods_dj_book_down_h	2	2		dw_dj	t_ods_dj_book_down_h			郭金	1	h
+dj_ods.t_ods_dj_mobao_consume_h	影响p0核心8点基线表产出	/warehouse/dj_ods.db/t_ods_dj_mobao_consume_h	1	05	03.58	t_ads_dj_mobao_consume_d				郭金	1	d
+dj_ods.t_ods_dj_read_time_h	影响p0核心小时表产出	/warehouse/dj_ods.db/t_ods_dj_read_time_h	2	2		dw_dj	t_ods_dj_read_time_h		得间-p0-	郭金	1	h
+dj_ods.t_ods_dj_recharge_record_log_h	影响p0核心小时表产出-得间-ods层充值日志-精确到小时	/warehouse/dj_ods.db/t_ods_dj_recharge_record_log_h	3	3		dw_dj	t_ods_dj_recharge_record_log_h		得间-p0-	郭金	2_1	h
+dw_tmp.import_recharge_record_giftvoucher_tmp	影响p0核心8点基线表产出	/warehouse/dw_tmp.db/import_recharge_record_giftvoucher_tmp	1	04	03:16				无	郭金	1	d
+dw_tmp.import_recharge_record_return_tmp	影响p0核心8点基线表产出	/warehouse/dw_tmp.db/import_recharge_record_return_tmp	1	04	03:18				无	郭金	1	d
+external.book_version_d	影响p0核心8点基线表产出	/warehouse/external.db/book_version_d	1	01	00:11				无	郭金	1	d
+external.t_external_dj_push_read_user_set_d	得间-	/warehouse/external.db/t_external_dj_push_read_user_set_d	1	03	02:26	dw_dj	无	无	得间-p0-	李志伟	1	d
+external.t_external_dj_push_update_reminder_d	得间已订阅书籍更新push的用户及订阅书籍数据	/warehouse/external.db/t_external_dj_push_update_reminder_d	1	04	03:16	dw_dj	无	无	得间-p0-	李志伟	1	d
+external.t_external_dj_push_user_set_d	得间push用户集	/warehouse/external.db/t_external_dj_push_user_set_d	2	01	23:58	dw_dj	无	无	得间-p0-	李志伟	1	d
+external.t_suanfa_external_book_score_d	影响bmh核心8点基线产出	/warehouse/external.db/t_suanfa_external_book_score_d	1	07	05:30	t_suanfa_external_book_score_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_ads.ads_free_report_manage_day_di	影响p0核心8点基线产出-掌阅大盘	/warehouse/idata_ads.db/ads_free_report_manage_day_di	1	07	06:03	dws_report_manage_free_index		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.ads_report_manage_day_di	影响p0核心8点基线产出-hw大盘	/warehouse/idata_ads.db/ads_report_manage_day_di	1	07	05:32	dws_report_manage_index		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_hw_target_d	影响p0核心8点基线产出-得间速看管理层报表指标数据	/warehouse/idata_ads.db/t_ads_board_hw_target_d	8	02	01:00	t_ads_board_hw_target_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_oppo_evel_target_d	影响p0核心8点基线产出-市场大盘	/warehouse/idata_ads.db/t_ads_board_oppo_evel_target_d	8	02	01:00	t_ads_board_zy_target_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_oppo_target_d	影响p0核心8点基线产出-得间活跃用户留存结果表-按日	/warehouse/idata_ads.db/t_ads_board_oppo_target_d	8	02	01:00	t_ads_board_zy_target_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_sc_target_android_d	影响p0核心8点基线产出-得间_新增用户结果表(天)	/warehouse/idata_ads.db/t_ads_board_sc_target_android_d	8	02	01:00	t_ads_board_sc_target_android_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_sc_target_d	影响p0核心8点基线产出-得间活跃用户留存结果表-按日	/warehouse/idata_ads.db/t_ads_board_sc_target_d	8	02	01:00	t_ads_board_hw_target_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_sc_target_ios_d	影响p0核心8点基线产出-得间--单本书精平装合并聚合数据	/warehouse/idata_ads.db/t_ads_board_sc_target_ios_d	8	02	01:00	t_ads_board_sc_target_android_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_vivo_target_d	影响p0核心8点基线产出-vivo大盘	/warehouse/idata_ads.db/t_ads_board_vivo_target_d	8	02	01:00	t_ads_board_zy_target_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_board_zy_target_d	影响p0核心8点基线产出-oppo大盘	/warehouse/idata_ads.db/t_ads_board_zy_target_d	8	02	01:00	t_ads_board_zy_target_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_ads.t_ads_book_chapter_quality_d	得间-	/warehouse/idata_ads.db/t_ads_book_chapter_quality_d	1	05	03:53	dw_dj	无	无	得间-p0-	李志伟	1	d
+idata_ads.t_ads_book_quality_d	得间-	/warehouse/idata_ads.db/t_ads_book_quality_d	1	06	04:37	dw_dj	无	无	得间-p0-	李志伟	1	d
+idata_ads.t_ads_boot_active_new_v2_d	影响p0核心8点基线产出-活跃	/warehouse/idata_ads.db/t_ads_boot_active_new_v2_d	1	08	06:41	t_ads_boot_active_v2_d		bi结果表	无	郭金	1	d
+idata_ads.t_ads_boot_active_v2_d	影响p0核心8点基线产出-活跃	/warehouse/idata_ads.db/t_ads_boot_active_v2_d	1	09	08:06	t_ads_boot_active_v2_d		bi结果表	无	郭金	1	d
+idata_ads.t_ads_commercial_app_cube_d	影响得间商业化	/warehouse/idata_ads.db/t_ads_commercial_app_cube_d	1	09	07:50	1	1	1	得间-p0-	郭金	1	d
+idata_ads.t_ads_invest_book_warn_d	得间-	/warehouse/idata_ads.db/t_ads_invest_book_warn_d	1	02	01:10	dw_dj	无	无	得间-p0-	李志伟	1	d
+idata_ads.t_ads_sukan_book_d	影响bmh核心8点基线产出	/warehouse/idata_ads.db/t_ads_sukan_book_d	1	04	03:02	sukan_book		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_ads.t_ads_vip_book_cate_v2_d	影响p0核心8点基线产出	/warehouse/idata_ads.db/t_ads_vip_book_cate_v2_d	1	07	05:35	t_ads_vip_book_cate_v2_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_dim.dim_source_cache_creative	影响p0核心8点基线表产出-bmh_媒体平台广告创意信息表	/warehouse/idata_dim.db/dim_source_cache_creative	1	02	01:02				无	郭金	1	d
+idata_dim.t_dim_chapter_d	影响p0核心8点基线表产出	/warehouse/idata_dim.db/t_dim_chapter_d	1	02	00:40				无	郭金	1	d
+idata_dim.t_dim_chasing_app_bag	影响p0核心小时表产出-分销cps_应用包表	/warehouse/idata_dim.db/t_dim_chasing_app_bag	3	3						郭金	1	h
+idata_dim.t_dim_chasing_channel_info	影响p0核心小时表产出-分销cps_媒体信息表	/warehouse/idata_dim.db/t_dim_chasing_channel_info	2	2						郭金	1	h
+idata_dim.t_dim_gold_withdraw_d	影响p0核心8点基线表产出-金币提现	/warehouse/idata_dim.db/t_dim_gold_withdraw_d	1	02	01:05	t_dim_gold_withdraw_d			无	郭金	1	d
+idata_dim.t_dim_invest_account_d	影响p0核心8点基线表产出-投放广告账户信息表	/warehouse/idata_dim.db/t_dim_invest_account_d	1	02	00:35				无	郭金	1	d
+idata_dim.t_dim_invest_plan_info_d	影响p0核心8点基线表产出-投放计划信息表	/warehouse/idata_dim.db/t_dim_invest_plan_info_d	1	02	01:01	t_dim_invest_plan_info_d			无	郭金	1	d
+idata_dim.t_dim_listen_chapter_d	影响p0核心8点基线表产出-听书章节详情表	/warehouse/idata_dim.db/t_dim_listen_chapter_d	1	02	01:11				无	郭金	1	d
+idata_dim.t_dim_recharge_record_h	影响p0核心小时表产出-同步来的充值信息表	/warehouse/idata_dim.db/t_dim_recharge_record_h	2	2						郭金	1	h
+idata_dim.t_dim_sspapiad_amount_d	影响p0核心8点基线表产出-商业化收入	/warehouse/idata_dim.db/t_dim_sspapiad_amount_d	1	06	04:21	t_dws_board_dau_d			无	郭金	1	d
+idata_dim.t_dim_suanfa_book_level_d	影响p0核心8点基线表产出-算法特征书籍评级表	/warehouse/idata_dim.db/t_dim_suanfa_book_level_d	1	08	07:26	t_dim_book_level_pro_d			无	郭金	1	d
+idata_dwd.t_dwd_active_pool_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_active_pool_d	1	03	02:17	t_dwd_active_pool_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dwd.t_dwd_activity_user_set_v2_d	影响p0核心8点基线表产出-a0活动用户集	/warehouse/idata_dwd.db/t_dwd_activity_user_set_v2_d	1	04	02:30	t_dwd_activity_user_set_v2_d			无	郭金	1	d
+idata_dwd.t_dwd_board_read_user_d	影响p0核心8点基线表产出-进入阅读器的用户	/warehouse/idata_dwd.db/t_dwd_board_read_user_d	1	05	03:34	t_dws_board_read_d_cc			无	郭金	1	d
+idata_dwd.t_dwd_board_read_user_sc_d	影响p0核心8点基线表产出	/warehouse/idata_dwd.db/t_dwd_board_read_user_sc_d	1	07	05:33				无	郭金	1	d
+idata_dwd.t_dwd_board_readtime_d	影响p0核心8点基线表产出-阅读时长	/warehouse/idata_dwd.db/t_dwd_board_readtime_d	1	05	03:31	t_dws_board_read_d_cc			无	郭金	1	d
+idata_dwd.t_dwd_board_readtime_sc_d	影响p0核心8点基线表产出	/warehouse/idata_dwd.db/t_dwd_board_readtime_sc_d	1	07	05:31				无	郭金	1	d
+idata_dwd.t_dwd_board_staytime_d	影响p0核心8点基线表产出-APP停留时长	/warehouse/idata_dwd.db/t_dwd_board_staytime_d	1	07	05:43	t_dws_board_read_d			无	郭金	1	d
+idata_dwd.t_dwd_board_staytime_sc_d	影响p0核心8点基线表产出	/warehouse/idata_dwd.db/t_dwd_board_staytime_sc_d	1	07	05:34				无	郭金	1	d
+idata_dwd.t_dwd_commercial_user_run_d	影响	/warehouse/idata_dwd.db/t_dwd_commercial_user_run_d	1	09	无	1	1	bi结果表	得间-p0-	郭金	1	d
+idata_dwd.t_dwd_dm_download_d	影响p0核心8点基线表产出-t_dwd_dw_download_h 按天聚合表	/warehouse/idata_dwd.db/t_dwd_dm_download_d	1	03	01:54	t_dwd_dm_download_d			无	郭金	1	d
+idata_dwd.t_dwd_dw_download_h	影响p0核心小时表产出-下载和付费合并表，basic_download_log 和uc_down_recharge_origin，不包含大咖下载	/warehouse/idata_dwd.db/t_dwd_dw_download_h	3	3						郭金	1	h
+idata_dwd.t_dwd_free_advert_user_d	影响p0核心8点基线表产出-免广告会员	/warehouse/idata_dwd.db/t_dwd_free_advert_user_d	1	04	03:01	t_dwd_free_advert_user_d			无	郭金	1	d
+idata_dwd.t_dwd_invest_active_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_invest_active_d	1	05	04:12	t_dwd_invest_active_d				张涵	1	d
+idata_dwd.t_dwd_invest_user_active_pool_d	影响bmh核心8点基线产出-投放中心-全渠道用户pool表	/warehouse/idata_dwd.db/t_dwd_invest_user_active_pool_d	1	07	05:48	t_dwd_invest_user_active_pool_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dwd.t_dwd_invest_user_readtime_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_invest_user_readtime_d	1	08	06:34	t_dws_invest_user_read_retain_d				张涵	1	d
+idata_dwd.t_dwd_midu_new_user_v2_h	影响bmh核心小时表产出-秘读渠道新增用户表	/warehouse/idata_dwd.db/t_dwd_midu_new_user_v2_h	3	3		dw_idata	秘读计算			张涵	1	h
+idata_dwd.t_dwd_midu_new_user_v3_h	影响bmh核心小时表产出-秘读渠道新增用户表	/warehouse/idata_dwd.db/t_dwd_midu_new_user_v3_h	3	3		dw_idata	秘读计算			张涵	1	h
+idata_dwd.t_dwd_midu_user_attribute_fix_h	影响bmh核心小时表产出	/warehouse/idata_dwd.db/t_dwd_midu_user_attribute_fix_h	3	3		dw_idata	秘读计算			张涵	1	h
+idata_dwd.t_dwd_midu_user_attribute_h	影响bmh核心小时表产出-秘读归因用户表	/warehouse/idata_dwd.db/t_dwd_midu_user_attribute_h	3	3		dw_idata	秘读计算			张涵	1	h
+idata_dwd.t_dwd_midu_user_pool_d	影响bmh核心8点基线产出-秘读用户全量表	/warehouse/idata_dwd.db/t_dwd_midu_user_pool_d	1	02	00:56	秘读计算				张涵	1	d
+idata_dwd.t_dwd_midu_user_run_v2_h	影响bmh核心小时表产出-秘读活跃用户表	/warehouse/idata_dwd.db/t_dwd_midu_user_run_v2_h	3	3		dw_idata	秘读计算			张涵	1	h
+idata_dwd.t_dwd_nature_backflow_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_nature_backflow_d	1	06	05:07	t_dwd_nature_backflow_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dwd.t_dwd_nature_new_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_nature_new_d	1	06	05:01	t_dwd_nature_backflow_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dwd.t_dwd_new_user_d	影响p0核心8点基线表产出-新增用户明细（dws层）	/warehouse/idata_dwd.db/t_dwd_new_user_d	1	05	04:09	t_dws_user_retain_new_v2_d				郭金	1	d
+idata_dwd.t_dwd_ovh_user_active_pool_d	影响p0核心8点基线表产出	/warehouse/idata_dwd.db/t_dwd_ovh_user_active_pool_d	1	07	05:25	t_dwd_ovh_user_active_pool_d				郭金	1	d
+idata_dwd.t_dwd_read_pool_d	影响p0核心8点基线表产出	/warehouse/idata_dwd.db/t_dwd_read_pool_d	1	05	03:26	t_dwd_read_pool_d			无	郭金	1	d
+idata_dwd.t_dwd_readtime_allapp_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_readtime_allapp_d	1	07	06:09	t_dws_invest_user_read_d				张涵	1	d
+idata_dwd.t_dwd_readtime_h	影响p0核心小时表产出-阅读时长小时数据	/warehouse/idata_dwd.db/t_dwd_readtime_h	3	3						郭金	1	h
+idata_dwd.t_dwd_readtime_v2_d	影响p0核心8点基线表产出-阅读行为明细 dwd层	/warehouse/idata_dwd.db/t_dwd_readtime_v2_d	1	04	02:40	t_dws_readtime_d				郭金	1	d
+idata_dwd.t_dwd_recharge_order_v2_d	影响bmh核心8点基线产出-掌阅充值明细层	/warehouse/idata_dwd.db/t_dwd_recharge_order_v2_d	1	04	03:20	t_dwd_recharge_order_v2_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dwd.t_dwd_sukan_read_user_h	影响p0核心小时表产出	/warehouse/idata_dwd.db/t_dwd_sukan_read_user_h	2	2						郭金	1	h
+idata_dwd.t_dwd_sukan_recharge_d	影响p0核心小时表产出-速看交易明细	/warehouse/idata_dwd.db/t_dwd_sukan_recharge_d	3	3						郭金	1	h
+idata_dwd.t_dwd_sukan_show_d	速看	/warehouse/idata_dwd.db/t_dwd_sukan_show_d	2	2	无	1	1	1	掌阅-p0-bi结果表	郭金	1	h
+idata_dwd.t_dwd_sukan_user_new_v2_h	影响p0核心小时表产出-速看新增用户	/warehouse/idata_dwd.db/t_dwd_sukan_user_new_v2_h	2	2						郭金	1	h
+idata_dwd.t_dwd_sukan_user_pool_d	影响p0核心8点基线表产出-速看用户全量表	/warehouse/idata_dwd.db/t_dwd_sukan_user_pool_d	1	02	00:48	sukan_user_new_h				郭金	1	d
+idata_dwd.t_dwd_sukan_user_run_v2_h	影响p0核心小时表产出-速看活跃用户表	/warehouse/idata_dwd.db/t_dwd_sukan_user_run_v2_h	2	2	xx	dw_idata	sukan_user_run_h	xx		郭金	1	h
+idata_dwd.t_dwd_user_book_down_increment_d	影响p0核心8点基线表产出-用户首次下载书籍每日增量表	/warehouse/idata_dwd.db/t_dwd_user_book_down_increment_d	1	05	03:35	t_dws_download_consume_v2_d			无	郭金	1	d
+idata_dwd.t_dwd_user_dim_info_snapshot_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_user_dim_info_snapshot_d	1	04	02:24	t_dwd_active_pool_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dwd.t_dwd_user_read_chapter_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_user_read_chapter_d	1	08	06:27	t_dws_invest_user_read_retain_d				张涵	1	d
+idata_dwd.t_dwd_user_recharge_pool_d	影响p0核心8点基线表产出	/warehouse/idata_dwd.db/t_dwd_user_recharge_pool_d	1	02	01:15	t_dwd_user_recharge_pool_d				郭金	1	d
+idata_dwd.t_dwd_user_show_h	影响p0核心小时表产出-用户展现明细（dwd）	/warehouse/idata_dwd.db/t_dwd_user_show_h	3	3		dw_idata	t_dwd_user_show_h			郭金	1	h
+idata_dwd.t_dwd_userset_init_pool	影响bmh核心8点基线产出-用户启动pool表	/warehouse/idata_dwd.db/t_dwd_userset_init_pool	1	05	03:31	t_dwd_userset_init_pool		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dwd.t_dwd_vip_book_statements_v2_d	影响p0核心8点基线表产出-vip书籍结算dwd表 包含 电子书，大咖，听书的vip用户下载书籍	/warehouse/idata_dwd.db/t_dwd_vip_book_statements_v2_d	1	06	04:28	t_dws_vip_book_statement_v2_d			无	郭金	1	d
+idata_dwd.t_dwd_vip_pool_d	影响p0核心8点基线表产出-vip全量表	/warehouse/idata_dwd.db/t_dwd_vip_pool_d	1	03	02:14	t_ads_vip_sum			无	郭金	1	d
+idata_dwd.t_dwd_zy_user_active_d	影响bmh核心8点基线产出	/warehouse/idata_dwd.db/t_dwd_zy_user_active_d	1	04	02:25	t_dwd_active_pool_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.dws_dj_report_manage_all_di	影响p0核心8点基线表产出-得间DWS管理维度报表指标高度汇总模型	/warehouse/idata_dws.db/dws_dj_report_manage_all_di	1	07	06:01	dws_report_manage_free_index			无	郭金	1	d
+idata_dws.dws_dj_report_manage_retain_di	影响p0核心8点基线表产出-得间dws管理维度报表留存指标高度汇总模型	/warehouse/idata_dws.db/dws_dj_report_manage_retain_di	1	07	06:01	dws_report_manage_free_index			无	郭金	1	d
+idata_dws.dws_report_manage_dau_di	影响p0核心8点基线表产出-DWS管理维度dau指标高度汇总模型	/warehouse/idata_dws.db/dws_report_manage_dau_di	1	07	05:30	dws_report_manage_index			无	郭金	1	d
+idata_dws.dws_report_manage_read_di	影响p0核心8点基线表产出-DWS管理维度阅读指标高度汇总模型	/warehouse/idata_dws.db/dws_report_manage_read_di	1	07	05:34	dws_report_manage_index			无	郭金	1	d
+idata_dws.dws_report_manage_recharge_di	影响p0核心8点基线表产出-DWS管理维度收入指标高度汇总模型	/warehouse/idata_dws.db/dws_report_manage_recharge_di	1	07	05:30	dws_report_manage_index			无	郭金	1	d
+idata_dws.dws_report_manage_retain_dau_di	影响p0核心8点基线表产出-dws管理维度报表留存指标高度汇总模型	/warehouse/idata_dws.db/dws_report_manage_retain_dau_di	1	07	05:30	dws_report_manage_index			无	郭金	1	d
+idata_dws.dws_report_manage_stay_di	影响p0核心8点基线表产出-DWS管理维度APP使用指标高度汇总模型	/warehouse/idata_dws.db/dws_report_manage_stay_di	1	07	05:31	dws_report_manage_index			无	郭金	1	d
+idata_dws.dws_sk_report_manage_all_di	影响p0核心8点基线表产出-速看DWS管理维度报表指标高度汇总模型	/warehouse/idata_dws.db/dws_sk_report_manage_all_di	1	07	06:01	dws_report_manage_free_index			无	郭金	1	d
+idata_dws.dws_sk_report_manage_retain_di	影响p0核心8点基线表产出-速看dws管理维度报表留存指标高度汇总模型	/warehouse/idata_dws.db/dws_sk_report_manage_retain_di	1	07	06:01	dws_report_manage_free_index			无	郭金	1	d
+idata_dws.t_dws_board_act_user_remain_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_act_user_remain_d	1	06	04:26	t_dws_board_dau_d			无	郭金	1	d
+idata_dws.t_dws_board_act_user_remain_sc_d	影响p0核心8点基线表产出-市场活跃留存	/warehouse/idata_dws.db/t_dws_board_act_user_remain_sc_d	1	07	05:33				无	郭金	1	d
+idata_dws.t_dws_board_dau_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_dau_d	1	06	04:23	t_dws_board_dau_d			无	郭金	1	d
+idata_dws.t_dws_board_dau_sc_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_dau_sc_d	1	07	05:31				无	郭金	1	d
+idata_dws.t_dws_board_new_user_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_new_user_d	1	06	04:24	t_dws_board_dau_d			无	郭金	1	d
+idata_dws.t_dws_board_new_user_remain_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_new_user_remain_d	1	06	04:25	t_dws_board_dau_d			无	郭金	1	d
+idata_dws.t_dws_board_new_user_remain_sc_d	影响p0核心8点基线表产出-市场新增留存	/warehouse/idata_dws.db/t_dws_board_new_user_remain_sc_d	1	07	05:31				无	郭金	1	d
+idata_dws.t_dws_board_new_user_sc_d	影响p0核心8点基线表产出-市场新增用户	/warehouse/idata_dws.db/t_dws_board_new_user_sc_d	1	07	05:31				无	郭金	1	d
+idata_dws.t_dws_board_read_d	影响p0核心8点基线产出-管理层报表指标数据	/warehouse/idata_dws.db/t_dws_board_read_d	1	07	05:40	t_dws_board_read_d		p0结果表	掌阅-p0-结果表	郭金	1	d
+idata_dws.t_dws_board_read_sc_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_read_sc_d	1	07	05:34				无	郭金	1	d
+idata_dws.t_dws_board_recharge_d	影响p0核心8点基线表产出-充值拆解	/warehouse/idata_dws.db/t_dws_board_recharge_d	1	06	05:40	t_dws_board_read_d			无	郭金	1	d
+idata_dws.t_dws_board_recharge_sc_d	影响p0核心8点基线表产出-市场前向收入	/warehouse/idata_dws.db/t_dws_board_recharge_sc_d	1	07	05:31				无	郭金	1	d
+idata_dws.t_dws_board_recharge_total_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_recharge_total_d	8	00	22.33	t_dws_board_dau_d			无	郭金	1	d
+idata_dws.t_dws_board_recharge_total_sc_d	影响p0核心8点基线表产出-市场收入	/warehouse/idata_dws.db/t_dws_board_recharge_total_sc_d	8	00	22.40	t_dws_board_read_d_sc			无	郭金	1	d
+idata_dws.t_dws_board_sc_new_read_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_sc_new_read_d	1	07	05:34	t_dws_board_read_d_sc			无	郭金	1	d
+idata_dws.t_dws_board_sc_new_readtime_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_sc_new_readtime_d	1	07	05:34	t_dws_board_read_d_sc			无	郭金	1	d
+idata_dws.t_dws_board_staytime_d	影响p0核心8点基线表产出-APP停留时长	/warehouse/idata_dws.db/t_dws_board_staytime_d	1	07	05:44	t_dws_board_read_d			无	郭金	1	d
+idata_dws.t_dws_board_staytime_sc_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_board_staytime_sc_d	1	07	05:36				无	郭金	1	d
+idata_dws.t_dws_invest_dau_d	影响bmh核心8点基线产出-投放中心-dau	/warehouse/idata_dws.db/t_dws_invest_dau_d	1	07	06:12	t_dws_invest_dau_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_invest_djspeed_draw_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_invest_djspeed_draw_d	1	07	05:49	t_dwd_invest_user_active_pool_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_invest_nature_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_invest_nature_d	1	08	06:27			p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_invest_new_retain_pre_d	影响bmh核心8点基线产出-bmh_投放留存预计算节点	/warehouse/idata_dws.db/t_dws_invest_new_retain_pre_d	1	07	05:53	t_dwd_invest_user_active_pool_d			无	张涵	1	d
+idata_dws.t_dws_invest_retain_v2_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_invest_retain_v2_d	1	07	05:52	t_dwd_invest_user_active_pool_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_invest_user_read_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_invest_user_read_d	1	07	06:12	t_dws_invest_user_read_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_invest_user_read_overview_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_invest_user_read_overview_d	1	08	06:40	t_dws_invest_user_read_overview_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_invest_user_read_retain_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_invest_user_read_retain_d	1	08	06:35	t_dws_invest_user_read_retain_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_midu_cps_ad_data_income_v2_d	影响cps核心8点基线产出-秘读cps广告数据	/warehouse/idata_dws.db/t_dws_midu_cps_ad_data_income_v2_d	1	07	05:44	t_dws_midu_cps_ad_data_income_v2_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_midu_cps_recycle_d	影响cps核心8点基线产出-追读 cps 回收数据	/warehouse/idata_dws.db/t_dws_midu_cps_recycle_d	retain_ds=1	06	04:45	秘读回收数据	无	无	无	张涵	1	d
+idata_dws.t_dws_midu_cps_recycle_retained_pv_d	影响cps核心8点基线产出-追读 cps 回收数据-广告pv	/warehouse/idata_dws.db/t_dws_midu_cps_recycle_retained_pv_d	retain_ds=1	03	02:07	秘读366天留存计算	无	无	无	张涵	1	d
+idata_dws.t_dws_midu_cps_summary_data_d	影响cps核心8点基线产出-秘读cps汇总数据	/warehouse/idata_dws.db/t_dws_midu_cps_summary_data_d	1	07	05:30	t_dws_midu_cps_summary_data_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_ovh_dau_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_ovh_dau_d	1	07	05:29	dw_idata	t_dwd_ovh_user_active_pool_d	p0结果表	掌阅-p0-结果表	张涵	2_1	d
+idata_dws.t_dws_ovh_new_user_retain_d	影响bmh核心8点基线产出	/warehouse/idata_dws.db/t_dws_ovh_new_user_retain_d	1	07	05:29	t_dwd_ovh_user_active_pool_d		p0结果表	掌阅-p0-结果表	张涵	1	d
+idata_dws.t_dws_sukan_income_overview_board_d	影响p0核心8点基线表产出-速看--收入概览看板数据	/warehouse/idata_dws.db/t_dws_sukan_income_overview_board_d	2	01	23:47	t_dws_sukan_income_overview_board_d			无	郭金	1	d
+idata_dws.t_dws_vip_book_cate_amount_v2_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_vip_book_cate_amount_v2_d	1	07	05:32	t_ads_vip_book_cate_v2_d			无	郭金	1	d
+idata_dws.t_dws_vip_book_cate_user_v2_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_vip_book_cate_user_v2_d	1	07	05:28	t_ads_vip_book_cate_v2_d			无	郭金	1	d
+idata_dws.t_dws_vip_book_statement_v2_d	影响p0核心8点基线表产出	/warehouse/idata_dws.db/t_dws_vip_book_statement_v2_d	1	06	04:37	t_dws_vip_book_statement_v2_d			无	郭金	1	d
+idata_ods.ods_sensors_event_all_distinct_h	神策日志模型，业务线分区	/warehouse/idata_ods.db/ods_sensors_event_all_distinct_h	3	3		dw_dj	无	无	得间-p0-	李志伟	1	h
+idata_ods.t_ods_actual_newlead_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_actual_newlead_h	2	2		dw_idata	basic_to_ods_other_h			郭金	1	h
+idata_ods.t_ods_ad_show_nrt_h	影响	/warehouse/idata_ods.db/t_ods_ad_show_nrt_h	3	3	无	1	1	1		郭金	1	h
+idata_ods.t_ods_app_launch_h	影响p0核心小时表产出-追读阅读时长表	/warehouse/idata_ods.db/t_ods_app_launch_h	2	2		dw_idata	t_dwd_app_launch_h		得间-p0-	郭金	1	h
+idata_ods.t_ods_behavior_v2_h	影响p0核心小时表产出-ods启动日志表，从basic抽取基本字段。	/warehouse/idata_ods.db/t_ods_behavior_v2_h	3	3		dw_idata	t_dws_data_board_h_to_mysql_monitor			郭金	1	h
+idata_ods.t_ods_bookclub_addpost_h	影响p0核心小时表产出-搜索日志(安卓搜索插件v22版本启用)	/warehouse/idata_ods.db/t_ods_bookclub_addpost_h	2	2		dw_idata	basic_to_ods_v6_h			郭金	1	h
+idata_ods.t_ods_bookstore_h	影响p0核心小时表产出-浏览日志(实时+非实时,根据topic区分)	/warehouse/idata_ods.db/t_ods_bookstore_h	3	3		dw_idata	t_ads_new_monitor_v2_h			郭金	1	h
+idata_ods.t_ods_brief_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_brief_h	3	3		dw_idata	t_ods_brief_h			郭金	1	h
+idata_ods.t_ods_dj_commercial_ad_serving_h	影响p0核心小时表产出-ods层wap站布点数据表，解析出json中数据	/warehouse/idata_ods.db/t_ods_dj_commercial_ad_serving_h	3	3		dw_dj	t_dws_dj_commercial_ad_light_h_v2		得间-p0-	郭金	1	h
+idata_ods.t_ods_download_h	影响p0核心小时表产出-投放小时表	/warehouse/idata_ods.db/t_ods_download_h	3	3		dw_idata	t_ods_download_h			郭金	1	h
+idata_ods.t_ods_ereader_bookstore_h	影响p0核心小时表产出-投放启动全量日志	/warehouse/idata_ods.db/t_ods_ereader_bookstore_h	2	2		dw_idata	t_ads_new_monitor_v2_h			郭金	1	h
+idata_ods.t_ods_invest_launch_rt_h	影响p0核心小时表产出-基于神策事件日志落表，s_为神策自带字段	/warehouse/idata_ods.db/t_ods_invest_launch_rt_h	2	2		dw_idata	t_ods_invest_launch_rt_h			郭金	1	h
+idata_ods.t_ods_invest_sync_h	影响bmh核心小时表产出-投放小时表	/warehouse/idata_ods.db/t_ods_invest_sync_h	3	3		dw_idata	秘读计算		掌阅-p0-结果表	张涵	1	h
+idata_ods.t_ods_invest_third_h	影响p0核心小时表产出-ereader.php.bookstore(电纸书书城日志)(字段为null设置为-1)	/warehouse/idata_ods.db/t_ods_invest_third_h	2	2		dw_idata	t_ods_invest_third_h			郭金	1	h
+idata_ods.t_ods_ios_ireader_crash_h	影响p0核心小时表产出-书籍的书友圈的新增评论数	/warehouse/idata_ods.db/t_ods_ios_ireader_crash_h	2	2		dw_idata	basic_to_ods_ios_h			郭金	1	h
+idata_ods.t_ods_ireader_click_h	影响p0核心小时表产出-秘读阅读日志	/warehouse/idata_ods.db/t_ods_ireader_click_h	3	3		dw_idata	t_dwd_user_click_v2_d			郭金	1	h
+idata_ods.t_ods_ireader_commercial_ad_h	影响p0核心小时表产出-ods层消费表，从basicdata到ods做了清洗过滤，规则为：(length(bookid)>=5or(length(bookid)<5andorderidlike%DMP%))andlength(partner_id)=6	/warehouse/idata_ods.db/t_ods_ireader_commercial_ad_h	3	3		dw_idata	t_ods_ireader_commercial_ad_h			郭金	1	h
+idata_ods.t_ods_ireader_search_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_ireader_search_h	2	2		dw_idata	basic_to_ods_android_h		得间-p0-	郭金	1	h
+idata_ods.t_ods_ireader_track_h	影响p0核心小时表产出-商业化广告日志	/warehouse/idata_ods.db/t_ods_ireader_track_h	3	3		dw_idata	t_ods_ireader_track_h			郭金	1	h
+idata_ods.t_ods_midu_click_h	影响p0核心小时表产出-6版充值流水	/warehouse/idata_ods.db/t_ods_midu_click_h	2	2		dw_idata	秘读计算			郭金	1	h
+idata_ods.t_ods_midu_invest_sync_h	影响p0核心小时表产出-启动明细	/warehouse/idata_ods.db/t_ods_midu_invest_sync_h	2	2		dw_idata	秘读计算			郭金	1	h
+idata_ods.t_ods_midu_php_launch_h	影响p0核心小时表产出-速看快应用基础表-小时级别	/warehouse/idata_ods.db/t_ods_midu_php_launch_h	2	2		dw_idata	秘读计算			郭金	1	h
+idata_ods.t_ods_midu_read_time_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_midu_read_time_h	2	2		dw_idata	秘读计算			郭金	1	h
+idata_ods.t_ods_midu_show_h	影响p0核心小时表产出-速看阅读日志	/warehouse/idata_ods.db/t_ods_midu_show_h	2	2		dw_idata	bmh-arpu人群及曝光标签			郭金	1	h
+idata_ods.t_ods_prov4_book_show_h	影响p0核心小时表产出-ios搜索点击实时上传	/warehouse/idata_ods.db/t_ods_prov4_book_show_h	3	3		dw_idata	t_ods_prov4_book_state_h			郭金	1	h
+idata_ods.t_ods_prov4_book_state_h	影响p0核心小时表产出-秘读点击解析(用户点击)日志中的json串，落地到表	/warehouse/idata_ods.db/t_ods_prov4_book_state_h	3	3		dw_idata	t_ods_prov4_book_state_h			郭金	1	h
+idata_ods.t_ods_qiandao_h	影响p0核心小时表产出-vip自动续费	/warehouse/idata_ods.db/t_ods_qiandao_h	2	2		dw_idata	t_ods_qiandao_h			郭金	1	h
+idata_ods.t_ods_recharge_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_recharge_h	2	2		dw_idata	t_ods_recharge_h			郭金	1	h
+idata_ods.t_ods_record_read_bean_h	影响p0核心小时表产出-书城日志ods层	/warehouse/idata_ods.db/t_ods_record_read_bean_h	3	3		dw_idata	t_ods_record_read_bean_h		得间-p0-	郭金	1	h
+idata_ods.t_ods_sensors_event_all_distinct_h	影响p0核心小时表产出-秘读启动	/warehouse/idata_ods.db/t_ods_sensors_event_all_distinct_h	3	3		dw_idata	t_ods_sensors_event_all_distinct_h			郭金	1	h
+idata_ods.t_ods_srv_recharge_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_srv_recharge_h	2	2		dw_idata	basic_to_ods_v6_h			郭金	1	h
+idata_ods.t_ods_sukan_php_launch_h	影响p0核心小时表产出-6版下载日志(字段为null的统一设为-1)	/warehouse/idata_ods.db/t_ods_sukan_php_launch_h	2	2		dw_idata	t_dwd_sukan_user_run_h			郭金	1	h
+idata_ods.t_ods_sukan_read_time_h	影响p0核心小时表产出-神策日志数据，三合一，做了去重	/warehouse/idata_ods.db/t_ods_sukan_read_time_h	2	2		dw_idata	t_dwd_sukan_user_run_h			郭金	1	h
+idata_ods.t_ods_sukan_show_h	影响p0核心小时表产出-简介页ods的抽取	/warehouse/idata_ods.db/t_ods_sukan_show_h	2	2		dw_idata	t_dwd_sukan_user_run_h			郭金	1	h
+idata_ods.t_ods_third_pushid_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_third_pushid_h	2	2		dw_idata	t_ods_third_pushid_h			郭金	1	h
+idata_ods.t_ods_treader_download_h	影响p0核心小时表产出	/basicdata/kafka/treader/srv/download	2	2						郭金	1	h
+idata_ods.t_ods_uc_down_recharge_h	影响p0核心小时表产出-签到日志	/warehouse/idata_ods.db/t_ods_uc_down_recharge_h	2	2		dw_idata	t_ads_new_monitor_v2_h			郭金	1	h
+idata_ods.t_ods_user_app_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_user_app_h	3	3		dw_idata	t_ods_user_app_h			郭金	1	h
+idata_ods.t_ods_user_change_status_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_user_change_status_h	2	2		dw_idata	t_dwd_user_change_status_pool_h			郭金	1	h
+idata_ods.t_ods_user_events_behavior_h	影响p0核心小时表产出-解析ireader.user.click(用户点击)日志中的json串，落地到表	/warehouse/idata_ods.db/t_ods_user_events_behavior_h	3	3						郭金	1	h
+idata_ods.t_ods_user_mshown_h	影响p0核心小时表产出-android客户端新用户引导实时日志	/warehouse/idata_ods.db/t_ods_user_mshown_h	2	2		dw_idata	basic_to_ods_other_h			郭金	1	h
+idata_ods.t_ods_user_read_h	影响p0核心小时表产出-投放第三方平台消耗等数据	/warehouse/idata_ods.db/t_ods_user_read_h	3	3		dw_idata	t_ods_user_read_h			郭金	1	h
+idata_ods.t_ods_user_read_real_rt_h	影响p0核心小时表产出-秘读曝光日志	/warehouse/idata_ods.db/t_ods_user_read_real_rt_h	3	3		dw_idata	t_ods_user_read_real_rt_h			郭金	1	h
+idata_ods.t_ods_user_show_h	影响p0核心小时表产出-行为日志	/warehouse/idata_ods.db/t_ods_user_show_h	2	2		dw_idata	t_dwd_user_show_h		得间-p0-	郭金	1	h
+idata_ods.t_ods_user_vip_renew_h	影响p0核心小时表产出-APP	/warehouse/idata_ods.db/t_ods_user_vip_renew_h	2	2		dw_idata	basic_to_ods_v6_h			郭金	1	h
+idata_ods.t_ods_userset_init_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_userset_init_h	3	3		dw_idata	t_dws_data_board_h_to_mysql_monitor			郭金	1	h
+idata_ods.t_ods_watch_video_charpter_h	影响p0核心小时表产出-6版书城充值日志ods层表，字段为null赋值“-1”，此表用于获取充值a0活动用户集	/warehouse/idata_ods.db/t_ods_watch_video_charpter_h	2	2		dw_idata	basic_to_ods_other_h			郭金	1	h
+idata_ods.t_ods_zhuidu_php_launch_h	影响p0核心小时表产出	/warehouse/idata_ods.db/t_ods_zhuidu_php_launch_h	2	2		dw_idata	t_ods_zhuidu_php_launch_h			郭金	1	h
+idata_ods.t_ods_zhuidu_read_time_h	影响p0核心小时表产出-激励视频送章日志	/warehouse/idata_ods.db/t_ods_zhuidu_read_time_h	2	2		dw_idata	t_ods_zhuidu_read_time_h			郭金	1	h
+idata_ods.t_ods_zhuidu_show_h	追读	/warehouse/idata_ods.db/t_ods_zhuidu_show_h	2	2	无	1	1	1		郭金	1	h
+zy_dm.dm_pub_read_book_user_detail_di	阅读用户主题明细宽表\n\n技术文档： 5 阅读主题宽表	/warehouse/zy_dm.db/dm_pub_read_book_user_detail_di	1	21	08:44	dw_dj	无	无	得间-p0-	李志伟	1	d
+zy_dm.dm_pub_user_active_detail_di	活跃用户主题宽表明细层\n｜业务线：掌阅\\得间\\速看\\追读\n｜粒度： 业务线+渠道+user_id 粒度+ip粒度\n｜技术文档：4 活跃用户主题宽表	/warehouse/zy_dm.db/dm_pub_user_active_detail_di	1	09	08:18	dw_dj	无	无	得间-p0-	李志伟	1	d
+zy_dw.dwd_sensors_event_project_detail_h	神策打点日志dwd层明细宽表	/warehouse/zy_dw.db/dwd_sensors_event_project_detail_h	4	4		dw_dj	无	无	得间-p0-	李志伟	1	h
+zy_dw.dwd_sukan_kyy_active_pool_df	影响p0核心8点基线表产出-速看快应用活跃全量pool表	/warehouse/zy_dw.db/dwd_sukan_kyy_active_pool_df	1	05	04:02	dwd_sukan_kyy_active_pool_df			无	郭金	1	d
+zy_dw.dwd_sukan_kyy_active_pool_di	影响p0核心8点基线表产出-速看快应用活跃增量pool表	/warehouse/zy_dw.db/dwd_sukan_kyy_active_pool_di	1	06	04:00	dwd_sukan_kyy_active_pool_df			无	郭金	1	d
+zy_dw.dwd_sukan_kyy_base_info_di	影响p0核心8点基线表产出-速看快应用基础表	/warehouse/zy_dw.db/dwd_sukan_kyy_base_info_di	1	04	03.38	dwd_sukan_kyy_base_info_di			无	郭金	1	d
+zy_dw.dwd_sukan_kyy_base_info_hi	影响p0核心小时表产出	/warehouse/zy_dw.db/dwd_sukan_kyy_base_info_hi	3	3		zy_dw	dwd_sukan_kyy_base_info_hi			郭金	1	h
