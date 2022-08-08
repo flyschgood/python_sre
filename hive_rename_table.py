@@ -38,12 +38,13 @@ fs = open("./rename_table.txt", "r")
 successful_fs = open("./hive_rename_successful.txt", "a")
 unsuccessful_fs = open("./hive_rename_unsuccessful.txt", "a")
 try:
-    lines = fs.readlines(100)
+    lines = fs.readlines()
     for line in lines:
         hql = rename_table(line)
         try:
             # 返回值为受影响的行数
             cursor.execute(hql)
+            print("rename table:" + line)
         except OperationalError as e:
             # print("失败原因e = " + str(e))
             unsuccessful_fs.write(line)
@@ -60,7 +61,6 @@ finally:
     successful_fs.close()
     unsuccessful_fs.close()
 
-
 # 执行语句(102.20下运行)：
 # /data/server/python3/bin/python3 ./hdfs_warehouse_modifytime.py
 
@@ -69,4 +69,3 @@ finally:
 
 # tee作用：将print的内容写入指定文件，同时也会打印到控制台
 # /data/server/python3/bin/python3 ./hdfs_warehouse_modifytime.py | tee ./warehouse_mofification_time.txt
-
