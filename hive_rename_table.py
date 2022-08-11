@@ -38,14 +38,13 @@ fs = open("./rename_table.txt", "r")
 successful_fs = open("./hive_rename_successful.txt", "a")
 unsuccessful_fs = open("./hive_rename_unsuccessful.txt", "a")
 try:
-    lines = fs.readlines()
-    for line in lines:
+    for line in fs:
         hql = rename_table(line)
         try:
             # 返回值为受影响的行数
             cursor.execute(hql)
             print("rename table:" + line)
-        except OperationalError as e:
+        except Exception as e:
             # print("失败原因e = " + str(e))
             unsuccessful_fs.write(line)
             unsuccessful_rows = unsuccessful_rows + 1
