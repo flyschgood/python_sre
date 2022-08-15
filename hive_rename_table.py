@@ -61,7 +61,7 @@ finally:
     unsuccessful_fs.close()
 
 # 执行语句(102.20下运行)：
-# /data/server/python3/bin/python3 ./hdfs_warehouse_modifytime.py
+# /data/server/python3/bin/python3 ./hive_rename_table.py
 
 # 安装python模块的路径：cd /data/server/python3/lib/python3.6/site-packages/
 # 安装python模块的命令：/data/server/python3/bin/pip3 模块名
