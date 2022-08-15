@@ -19,11 +19,13 @@ def get_write_fs(file_name):
 
 def warehouse_monitor(fs, compute_time):
     for file_status in client.list_status('/warehouse'):
+        # name = "idata_dws.db"
         name = file_status.pathSuffix
 
         for sub_file_status in client.list_status('/warehouse' + '/' + name):
             if sub_file_status.type != "DIRECTORY":
                 continue
+            # sub_name = "t_dwd_user_active_d"
             sub_name = sub_file_status.pathSuffix
             if sub_name.startswith('.'):
                 continue
